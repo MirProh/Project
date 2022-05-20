@@ -1,0 +1,125 @@
+﻿sfml-graphics-s.lib(Color.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(Color.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(Shape.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(Shape.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(CircleShape.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(CircleShape.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(RenderWindow.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(RenderWindow.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(RenderStates.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(RenderStates.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(Transform.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(Transform.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(Transformable.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(Transformable.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(VertexArray.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(VertexArray.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(View.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(View.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(Shader.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(Shader.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(VertexBuffer.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(VertexBuffer.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(RenderTextureImplFBO.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(RenderTextureImplFBO.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(Image.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(Image.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(Glsl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(Glsl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(VideoMode.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(VideoMode.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(Window.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(Window.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(VideoModeImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(VideoModeImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(WindowImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(WindowImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(JoystickManager.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(JoystickManager.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(SensorManager.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(SensorManager.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(WglExtensions.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(WglExtensions.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(Joystick.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(Joystick.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-system-s.lib(String.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-system-s.lib(String.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+sfml-system-s.lib(Err.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в bike.obj
+sfml-system-s.lib(Err.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в bike.obj
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glBlendFunc в функции "private: void __cdecl sf::RenderTarget::applyBlendMode(struct sf::BlendMode const &)" (?applyBlendMode@RenderTarget@sf@@AEAAXAEBUBlendMode@2@@Z).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glClear в функции "public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glClearColor в функции "public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glDisable в функции "public: void __cdecl sf::RenderTarget::resetGLStates(void)" (?resetGLStates@RenderTarget@sf@@QEAAXXZ).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glEnable в функции "public: void __cdecl sf::RenderTarget::resetGLStates(void)" (?resetGLStates@RenderTarget@sf@@QEAAXXZ).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glLoadIdentity в функции "private: void __cdecl sf::RenderTarget::applyTransform(class sf::Transform const &)" (?applyTransform@RenderTarget@sf@@AEAAXAEBVTransform@2@@Z).
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: неразрешенный внешний символ glLoadIdentity.
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glLoadMatrixf в функции "private: void __cdecl sf::RenderTarget::applyCurrentView(void)" (?applyCurrentView@RenderTarget@sf@@AEAAXXZ).
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: неразрешенный внешний символ glLoadMatrixf.
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glMatrixMode в функции "private: void __cdecl sf::RenderTarget::applyCurrentView(void)" (?applyCurrentView@RenderTarget@sf@@AEAAXXZ).
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: неразрешенный внешний символ glMatrixMode.
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glPopAttrib в функции "public: void __cdecl sf::RenderTarget::popGLStates(void)" (?popGLStates@RenderTarget@sf@@QEAAXXZ).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glPopMatrix в функции "public: void __cdecl sf::RenderTarget::popGLStates(void)" (?popGLStates@RenderTarget@sf@@QEAAXXZ).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glPushAttrib в функции "public: void __cdecl sf::RenderTarget::pushGLStates(void)" (?pushGLStates@RenderTarget@sf@@QEAAXXZ).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glPushMatrix в функции "public: void __cdecl sf::RenderTarget::pushGLStates(void)" (?pushGLStates@RenderTarget@sf@@QEAAXXZ).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glViewport в функции "private: void __cdecl sf::RenderTarget::applyCurrentView(void)" (?applyCurrentView@RenderTarget@sf@@AEAAXXZ).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glColorPointer в функции "public: void __cdecl sf::RenderTarget::draw(class sf::VertexBuffer const &,class sf::RenderStates const &)" (?draw@RenderTarget@sf@@QEAAXAEBVVertexBuffer@2@AEBVRenderStates@2@@Z).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glDisableClientState в функции "public: void __cdecl sf::RenderTarget::draw(class sf::Vertex const *,unsigned __int64,enum sf::PrimitiveType,class sf::RenderStates const &)" (?draw@RenderTarget@sf@@QEAAXPEBVVertex@2@_KW4PrimitiveType@2@AEBVRenderStates@2@@Z).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glDrawArrays в функции "public: void __cdecl sf::RenderTarget::draw(class sf::VertexBuffer const &,class sf::RenderStates const &)" (?draw@RenderTarget@sf@@QEAAXAEBVVertexBuffer@2@AEBVRenderStates@2@@Z).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glEnableClientState в функции "public: void __cdecl sf::RenderTarget::draw(class sf::VertexBuffer const &,class sf::RenderStates const &)" (?draw@RenderTarget@sf@@QEAAXAEBVVertexBuffer@2@AEBVRenderStates@2@@Z).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glPopClientAttrib в функции "public: void __cdecl sf::RenderTarget::popGLStates(void)" (?popGLStates@RenderTarget@sf@@QEAAXXZ).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glPushClientAttrib в функции "public: void __cdecl sf::RenderTarget::pushGLStates(void)" (?pushGLStates@RenderTarget@sf@@QEAAXXZ).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glTexCoordPointer в функции "public: void __cdecl sf::RenderTarget::draw(class sf::VertexBuffer const &,class sf::RenderStates const &)" (?draw@RenderTarget@sf@@QEAAXAEBVVertexBuffer@2@AEBVRenderStates@2@@Z).
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glVertexPointer в функции "public: void __cdecl sf::RenderTarget::draw(class sf::VertexBuffer const &,class sf::RenderStates const &)" (?draw@RenderTarget@sf@@QEAAXAEBVVertexBuffer@2@AEBVRenderStates@2@@Z).
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glFlush в функции "public: __cdecl sf::Texture::Texture(class sf::Texture const &)" (??0Texture@sf@@QEAA@AEBV01@@Z).
+sfml-graphics-s.lib(Shader.cpp.obj) : error LNK2001: неразрешенный внешний символ glFlush.
+sfml-graphics-s.lib(TextureSaver.cpp.obj) : error LNK2001: неразрешенный внешний символ glGetIntegerv.
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: неразрешенный внешний символ glGetIntegerv.
+sfml-graphics-s.lib(Shader.cpp.obj) : error LNK2001: неразрешенный внешний символ glGetIntegerv.
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2001: неразрешенный внешний символ glGetIntegerv.
+sfml-graphics-s.lib(RenderTextureImplFBO.cpp.obj) : error LNK2001: неразрешенный внешний символ glGetIntegerv.
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glGetTexImage в функции "public: class sf::Image __cdecl sf::Texture::copyToImage(void)const " (?copyToImage@Texture@sf@@QEBA?AVImage@2@XZ).
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glTexImage2D в функции "public: bool __cdecl sf::Texture::create(unsigned int,unsigned int)" (?create@Texture@sf@@QEAA_NII@Z).
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glTexParameteri в функции "public: bool __cdecl sf::Texture::create(unsigned int,unsigned int)" (?create@Texture@sf@@QEAA_NII@Z).
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glBindTexture в функции "public: static void __cdecl sf::Texture::bind(class sf::Texture const *,enum sf::Texture::CoordinateType)" (?bind@Texture@sf@@SAXPEBV12@W4CoordinateType@12@@Z).
+sfml-graphics-s.lib(TextureSaver.cpp.obj) : error LNK2001: неразрешенный внешний символ glBindTexture.
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glCopyTexSubImage2D в функции "public: void __cdecl sf::Texture::update(class sf::Window const &)" (?update@Texture@sf@@QEAAXAEBVWindow@2@@Z).
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glDeleteTextures в функции "public: __cdecl sf::Texture::~Texture(void)" (??1Texture@sf@@QEAA@XZ).
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glGenTextures в функции "public: bool __cdecl sf::Texture::create(unsigned int,unsigned int)" (?create@Texture@sf@@QEAA_NII@Z).
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glTexSubImage2D в функции "public: bool __cdecl sf::Texture::loadFromImage(class sf::Image const &,class sf::Rect<int> const &)" (?loadFromImage@Texture@sf@@QEAA_NAEBVImage@2@AEBV?$Rect@H@2@@Z).
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glGetError в функции "void __cdecl sf::priv::ensureExtensionsInit(void)" (?ensureExtensionsInit@priv@sf@@YAXXZ).
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ glGetString в функции "void __cdecl sf::priv::ensureExtensionsInit(void)" (?ensureExtensionsInit@priv@sf@@YAXXZ).
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_glEnable в функции "private: void __cdecl sf::priv::GlContext::initialize(struct sf::ContextSettings const &)" (?initialize@GlContext@priv@sf@@AEAAXAEBUContextSettings@3@@Z).
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_glGetError в функции "public: static void __cdecl sf::priv::GlContext::initResource(void)" (?initResource@GlContext@priv@sf@@SAXXZ).
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_glGetIntegerv в функции "public: static void __cdecl sf::priv::GlContext::initResource(void)" (?initResource@GlContext@priv@sf@@SAXXZ).
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_glGetString в функции "private: void __cdecl sf::priv::GlContext::checkSettings(struct sf::ContextSettings const &)" (?checkSettings@GlContext@priv@sf@@AEAAXAEBUContextSettings@3@@Z).
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_glIsEnabled в функции "private: void __cdecl sf::priv::GlContext::initialize(struct sf::ContextSettings const &)" (?initialize@GlContext@priv@sf@@AEAAXAEBUContextSettings@3@@Z).
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_wglCreateContext в функции "private: void __cdecl sf::priv::WglContext::createContext(class sf::priv::WglContext *)" (?createContext@WglContext@priv@sf@@AEAAXPEAV123@@Z).
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_wglDeleteContext в функции "public: virtual __cdecl sf::priv::WglContext::~WglContext(void)" (??1WglContext@priv@sf@@UEAA@XZ).
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_wglGetProcAddress в функции "public: static void (__cdecl*__cdecl sf::priv::WglContext::getFunction(char const *))(void)" (?getFunction@WglContext@priv@sf@@SAP6AXXZPEBD@Z).
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_wglMakeCurrent в функции "public: virtual __cdecl sf::priv::WglContext::~WglContext(void)" (??1WglContext@priv@sf@@UEAA@XZ).
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_wglShareLists в функции "private: void __cdecl sf::priv::WglContext::createContext(class sf::priv::WglContext *)" (?createContext@WglContext@priv@sf@@AEAAXPEAV123@@Z).
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_joyGetPosEx в функции "public: static void __cdecl sf::priv::JoystickImpl::initialize(void)" (?initialize@JoystickImpl@priv@sf@@SAXXZ).
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_joyGetDevCapsW в функции "public: bool __cdecl sf::priv::JoystickImpl::open(unsigned int)" (?open@JoystickImpl@priv@sf@@QEAA_NI@Z).
+sfml-system-s.lib(SleepImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_timeGetDevCaps в функции "void __cdecl sf::priv::sleepImpl(class sf::Time)" (?sleepImpl@priv@sf@@YAXVTime@2@@Z).
+sfml-system-s.lib(SleepImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_timeBeginPeriod в функции "void __cdecl sf::priv::sleepImpl(class sf::Time)" (?sleepImpl@priv@sf@@YAXVTime@2@@Z).
+sfml-system-s.lib(SleepImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_timeEndPeriod в функции "void __cdecl sf::priv::sleepImpl(class sf::Time)" (?sleepImpl@priv@sf@@YAXVTime@2@@Z).
+C:\Users\Prohor Miroslavskiy\source\repos\Final_bike\x64\Debug\Final_bike.exe : fatal error LNK1120: неразрешенных внешних элементов: 48
