@@ -1,0 +1,3 @@
+C:/Users/Prohor Miroslavskiy/CLionProjects/Final_bike/cmake-build-debug/CMakeFiles/Final_bike.dir
+C:/Users/Prohor Miroslavskiy/CLionProjects/Final_bike/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Prohor Miroslavskiy/CLionProjects/Final_bike/cmake-build-debug/CMakeFiles/rebuild_cache.dir

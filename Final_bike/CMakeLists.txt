@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.10)
+
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_COMPILER g++)
+project(Final_bike)
+find_package(SFML 2.5.1 COMPONENTS system window graphics audio REQUIRED)
+if (SFML_FOUND)
+    message(FOUND)
+    add_executable(Final_bike Final_bike/codes/main.cpp Final_bike/headers/main.h Final_bike/codes/bike.cpp Final_bike/headers/bike.h Final_bike/codes/Vector.cpp Final_bike/headers/Vector.h Final_bike/resources/bike1.png Final_bike/resources/Wheel.png)
+    target_link_libraries(Final_bike sfml-system sfml-window sfml-graphics sfml-audio)
+endif(SFML_FOUND)
